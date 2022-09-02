@@ -12,14 +12,12 @@
 
 
 ## 使い方(非Githubユーザー向け)
-- Codeボタンをクリックし，Download Zipボタンをクリックして，アプリをダウンロードします．
-- ファイルを解凍し，v3.1フォルダ>distフォルダ>UnzipGD31.exeをクリックするとアプリが起動します．
-- 「Windows によって PC が保護されました」というウインドウが出た場合は，「詳細」をクリックしてから「実行」をクリックしてください．
+- こちらからアプリが入っているzipファイルをダウンロードしてください．   
+https://github.com/hokudai-paleo/UnzipGD/releases/tag/v3.1
 
 ## How to use(for non-Github users)
-- Click "Code"> Click "Download Zip", then the app will be donwloaded.
-- Extracts the .zip, click v3.1>dist>UnzipGD31.exe to start the app.
-- If you get "Windows protected your PC" popup, click "More info" and click "Run Anyway".
+- Click the link below to download zip. The app is in it.   
+https://github.com/hokudai-paleo/UnzipGD/releases/tag/v3.1
 
 ## 使い方(Githubユーザー向け)
 - 実行ファイルはv3.1>dist>UnzipGD31.exeです．
