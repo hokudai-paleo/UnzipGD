@@ -6,6 +6,9 @@
 - This app extracts multiple .zip files at once.
 - When downloading a large number of files from google drive, they are forced to be split into multiple zip files. This is useful for unzipping these zip files.
 
+- このアプリのコーディング，GUIデザイン，デバッグを始めとした全ての開発プロセスにおいて，冨樫 綾 ([@a-aat](https://github.com/a-aat)) 氏に多大なる力を尽くしていただきました．ここに感謝申し上げます．
+- The whole development process (coding, GUI desigining, debug etc.) of this app is with the great works by Aya Togashi ([@a-aat](https://github.com/a-aat)). We appreciate her contribution.
+
 <img src="Mainwindow.JPG" width="300">   
 
 
