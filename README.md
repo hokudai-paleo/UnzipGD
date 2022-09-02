@@ -6,7 +6,7 @@
 - This app extracts multiple .zip files at once.
 - When downloading a large number of files from google drive, they are forced to be split into multiple zip files. This is useful for unzipping these zip files.
 
-<img src="portrait_midjourney.png" width="500">   
+<img src="Mainwindow.jpg" width="500">   
 
 
 ## 使い方(非Githubユーザー向け)
