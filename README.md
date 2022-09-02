@@ -6,6 +6,9 @@
 - This app extracts multiple .zip files at once.
 - When downloading a large number of files from google drive, they are forced to be split into multiple zip files. This is useful for unzipping these zip files.
 
+![image](https://user-images.githubusercontent.com/61795460/188070609-c5882e8f-f7f3-4eb4-9fe5-3a3e31922607.png)
+
+
 ## 使い方(非Githubユーザー向け)
 - Codeボタンをクリックし，Download Zipボタンをクリックして，アプリをダウンロードします．
 - ファイルを解凍し，v3.1フォルダ>distフォルダ>UnzipGD31.exeをクリックするとアプリが起動します．
