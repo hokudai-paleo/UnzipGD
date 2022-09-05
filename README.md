@@ -7,9 +7,8 @@
 - This app extracts multiple .zip files at once.
 - When downloading a large number of files from google drive, they are forced to be split into multiple zip files. This is useful for unzipping these zip files.
 
-- このアプリのコーディング，GUIデザイン，デバッグを始めとした全ての開発プロセスにおいて，冨樫 綾 氏 ([@a-aat](https://github.com/a-aat)) に多大なる力を尽くしていただきました．また，野口 凛人 氏([@Rinto-Noguchi](https://github.com/Rinto-Noguchi))にはプロジェクトの立案からデバッグに至る全てのプロセスを主導していただきました．伊庭 靖弘 氏にはプロジェクト全体の統括をしていただきました．ここに感謝申し上げます．
-- The whole development process (coding, GUI desigining, debugging etc.) of this app is with the great works by Aya Togashi ([@a-aat](https://github.com/a-aat)). Rinto Noguchi([@Rinto-Noguchi](https://github.com/Rinto-Noguchi)) led the entire process from project planning to debugging. Yasuhiro Iba supervised the entire project. We appreciate their contribution.
-
+- このアプリのコーディング，GUIデザイン，デバッグを始めとした全ての開発プロセスにおいて，冨樫 綾 氏 ([@a-aat](https://github.com/a-aat)) に多大なる力を尽くしていただきました．また，野口 凛人 氏([@Rinto-Noguchi](https://github.com/Rinto-Noguchi))にはプロジェクトの立案からデバッグに至る全てのプロセスを主導していただきました．伊庭 靖弘 氏にはプロジェクト全体の統括をしていただきました．竹田 裕介([@ytakeda-paleo](https://github.com/ytakeda-paleo))は開発と実践を横断してプロジェクトの計画，推進，管理を行いました．
+- The whole development process (coding, GUI desigining, debugging etc.) of this app is with the great works by Aya Togashi ([@a-aat](https://github.com/a-aat)). Rinto Noguchi([@Rinto-Noguchi](https://github.com/Rinto-Noguchi)) led the entire process from project planning to debugging. Yasuhiro Iba supervised the entire project. Yusuke Takeda([@ytakeda-paleo](https://github.com/ytakeda-paleo)) planned, promoted and managed projects across project development and practice.
 
 ## 使い方(非Githubユーザー向け)
 - こちらからアプリが入っているzipファイルをダウンロードしてください．   
